@@ -1,0 +1,25 @@
+h1 {
+  font-size: 5em;
+}
+
+h1 {
+  border-radius: 50%;
+  padding: -0.5% 5% 0% 5%;
+  background: #fff;
+  border: 10px solid red;
+  color: red;
+}
+h1{float:right; }
+
+    section{
+      color:blue;
+    }
+div{color: rebeccapurple}
+a{
+    text-decoration:none   }
+    a{
+     color:yellow}
+    a{
+    text-decoration:none   }
+    a{
+     color:yellow}
